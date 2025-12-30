@@ -4,6 +4,8 @@ A classic **Snake Food Game** built using **HTML, CSS, and JavaScript**.
 The player controls a snake that grows longer by eating food while avoiding collisions.
 
 ---
+## live Demo
+ https://mjunaid65665.github.io/snake-game/
 
 ## 🚀 Features
 - 🎮 Keyboard-controlled snake movement
